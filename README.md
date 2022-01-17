@@ -1,0 +1,2 @@
+# Introduccion_VolumenFinito
+El objetivo de este repositorio es introducir a estudiantes al método de volumen finito y su aplicación para la solución de ecuaciones diferenciales parciales. En particular, se presenta la solución de la ecuación de calor y las ecuaciones de Navier-Stokes. Cada código del repositorio cuenta con documentación del proceso de discretización y los métodos de solución utilizados.
