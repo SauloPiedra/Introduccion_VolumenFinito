@@ -1,0 +1,11 @@
+ unset key; set xrange[0:10]; set yrange[0:1]; set size ratio 0.1
+ p 'vel1000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel2000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel3000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel4000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel5000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel6000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel7000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel8000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel9000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
+ p 'vel10000.txt' u 1:2:(0.35*$3):(0.35*$4)w vec
