@@ -1,0 +1,101 @@
+ set size square; set xrange[0:1]; set yrange[0:1]; unset key
+ p 'vel200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel1000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel1200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel1400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel1600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel1800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel2000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel2200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel2400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel2600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel2800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel3000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel3200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel3400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel3600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel3800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel4000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel4200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel4400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel4600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel4800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel5000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel5200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel5400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel5600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel5800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel6000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel6200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel6400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel6600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel6800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel7000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel7200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel7400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel7600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel7800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel8000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel8200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel8400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel8600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel8800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel9000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel9200.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel9400.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel9600.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel9800.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
+ p 'vel10000.txt' u 1:2:(0.25*$3):(0.25*$4) w vec
+ pause 0.05
