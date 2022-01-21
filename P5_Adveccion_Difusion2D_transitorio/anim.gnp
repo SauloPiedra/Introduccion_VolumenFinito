@@ -1,0 +1,202 @@
+ set xrange[0:1.0]; set yrange[0:1.0]; set view map; set size square
+ set xlabel 'x'; set ylabel 'y' rotate by 0
+ sp "temp100.txt" w pm3d
+ pause 0.5
+ sp "temp200.txt" w pm3d
+ pause 0.5
+ sp "temp300.txt" w pm3d
+ pause 0.5
+ sp "temp400.txt" w pm3d
+ pause 0.5
+ sp "temp500.txt" w pm3d
+ pause 0.5
+ sp "temp600.txt" w pm3d
+ pause 0.5
+ sp "temp700.txt" w pm3d
+ pause 0.5
+ sp "temp800.txt" w pm3d
+ pause 0.5
+ sp "temp900.txt" w pm3d
+ pause 0.5
+ sp "temp1000.txt" w pm3d
+ pause 0.5
+ sp "temp1100.txt" w pm3d
+ pause 0.5
+ sp "temp1200.txt" w pm3d
+ pause 0.5
+ sp "temp1300.txt" w pm3d
+ pause 0.5
+ sp "temp1400.txt" w pm3d
+ pause 0.5
+ sp "temp1500.txt" w pm3d
+ pause 0.5
+ sp "temp1600.txt" w pm3d
+ pause 0.5
+ sp "temp1700.txt" w pm3d
+ pause 0.5
+ sp "temp1800.txt" w pm3d
+ pause 0.5
+ sp "temp1900.txt" w pm3d
+ pause 0.5
+ sp "temp2000.txt" w pm3d
+ pause 0.5
+ sp "temp2100.txt" w pm3d
+ pause 0.5
+ sp "temp2200.txt" w pm3d
+ pause 0.5
+ sp "temp2300.txt" w pm3d
+ pause 0.5
+ sp "temp2400.txt" w pm3d
+ pause 0.5
+ sp "temp2500.txt" w pm3d
+ pause 0.5
+ sp "temp2600.txt" w pm3d
+ pause 0.5
+ sp "temp2700.txt" w pm3d
+ pause 0.5
+ sp "temp2800.txt" w pm3d
+ pause 0.5
+ sp "temp2900.txt" w pm3d
+ pause 0.5
+ sp "temp3000.txt" w pm3d
+ pause 0.5
+ sp "temp3100.txt" w pm3d
+ pause 0.5
+ sp "temp3200.txt" w pm3d
+ pause 0.5
+ sp "temp3300.txt" w pm3d
+ pause 0.5
+ sp "temp3400.txt" w pm3d
+ pause 0.5
+ sp "temp3500.txt" w pm3d
+ pause 0.5
+ sp "temp3600.txt" w pm3d
+ pause 0.5
+ sp "temp3700.txt" w pm3d
+ pause 0.5
+ sp "temp3800.txt" w pm3d
+ pause 0.5
+ sp "temp3900.txt" w pm3d
+ pause 0.5
+ sp "temp4000.txt" w pm3d
+ pause 0.5
+ sp "temp4100.txt" w pm3d
+ pause 0.5
+ sp "temp4200.txt" w pm3d
+ pause 0.5
+ sp "temp4300.txt" w pm3d
+ pause 0.5
+ sp "temp4400.txt" w pm3d
+ pause 0.5
+ sp "temp4500.txt" w pm3d
+ pause 0.5
+ sp "temp4600.txt" w pm3d
+ pause 0.5
+ sp "temp4700.txt" w pm3d
+ pause 0.5
+ sp "temp4800.txt" w pm3d
+ pause 0.5
+ sp "temp4900.txt" w pm3d
+ pause 0.5
+ sp "temp5000.txt" w pm3d
+ pause 0.5
+ sp "temp5100.txt" w pm3d
+ pause 0.5
+ sp "temp5200.txt" w pm3d
+ pause 0.5
+ sp "temp5300.txt" w pm3d
+ pause 0.5
+ sp "temp5400.txt" w pm3d
+ pause 0.5
+ sp "temp5500.txt" w pm3d
+ pause 0.5
+ sp "temp5600.txt" w pm3d
+ pause 0.5
+ sp "temp5700.txt" w pm3d
+ pause 0.5
+ sp "temp5800.txt" w pm3d
+ pause 0.5
+ sp "temp5900.txt" w pm3d
+ pause 0.5
+ sp "temp6000.txt" w pm3d
+ pause 0.5
+ sp "temp6100.txt" w pm3d
+ pause 0.5
+ sp "temp6200.txt" w pm3d
+ pause 0.5
+ sp "temp6300.txt" w pm3d
+ pause 0.5
+ sp "temp6400.txt" w pm3d
+ pause 0.5
+ sp "temp6500.txt" w pm3d
+ pause 0.5
+ sp "temp6600.txt" w pm3d
+ pause 0.5
+ sp "temp6700.txt" w pm3d
+ pause 0.5
+ sp "temp6800.txt" w pm3d
+ pause 0.5
+ sp "temp6900.txt" w pm3d
+ pause 0.5
+ sp "temp7000.txt" w pm3d
+ pause 0.5
+ sp "temp7100.txt" w pm3d
+ pause 0.5
+ sp "temp7200.txt" w pm3d
+ pause 0.5
+ sp "temp7300.txt" w pm3d
+ pause 0.5
+ sp "temp7400.txt" w pm3d
+ pause 0.5
+ sp "temp7500.txt" w pm3d
+ pause 0.5
+ sp "temp7600.txt" w pm3d
+ pause 0.5
+ sp "temp7700.txt" w pm3d
+ pause 0.5
+ sp "temp7800.txt" w pm3d
+ pause 0.5
+ sp "temp7900.txt" w pm3d
+ pause 0.5
+ sp "temp8000.txt" w pm3d
+ pause 0.5
+ sp "temp8100.txt" w pm3d
+ pause 0.5
+ sp "temp8200.txt" w pm3d
+ pause 0.5
+ sp "temp8300.txt" w pm3d
+ pause 0.5
+ sp "temp8400.txt" w pm3d
+ pause 0.5
+ sp "temp8500.txt" w pm3d
+ pause 0.5
+ sp "temp8600.txt" w pm3d
+ pause 0.5
+ sp "temp8700.txt" w pm3d
+ pause 0.5
+ sp "temp8800.txt" w pm3d
+ pause 0.5
+ sp "temp8900.txt" w pm3d
+ pause 0.5
+ sp "temp9000.txt" w pm3d
+ pause 0.5
+ sp "temp9100.txt" w pm3d
+ pause 0.5
+ sp "temp9200.txt" w pm3d
+ pause 0.5
+ sp "temp9300.txt" w pm3d
+ pause 0.5
+ sp "temp9400.txt" w pm3d
+ pause 0.5
+ sp "temp9500.txt" w pm3d
+ pause 0.5
+ sp "temp9600.txt" w pm3d
+ pause 0.5
+ sp "temp9700.txt" w pm3d
+ pause 0.5
+ sp "temp9800.txt" w pm3d
+ pause 0.5
+ sp "temp9900.txt" w pm3d
+ pause 0.5
+ sp "temp10000.txt" w pm3d
+ pause 0.5
