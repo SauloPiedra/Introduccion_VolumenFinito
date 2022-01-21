@@ -1,0 +1,502 @@
+ set xrange[0:20]; set yrange[-2.5:2.5]; unset key; set size ratio 0.25
+ p 'lag0.txt' w d ls 2
+ p 'lagrange200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange1000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange1200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange1400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange1600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange1800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange2000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange2200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange2400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange2600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange2800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange3000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange3200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange3400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange3600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange3800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange4000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange4200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange4400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange4600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange4800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange5000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange5200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange5400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange5600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange5800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange6000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange6200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange6400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange6600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange6800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange7000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange7200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange7400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange7600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange7800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange8000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange8200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange8400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange8600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange8800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange9000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange9200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange9400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange9600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange9800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange10000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange10200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange10400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange10600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange10800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange11000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange11200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange11400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange11600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange11800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange12000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange12200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange12400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange12600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange12800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange13000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange13200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange13400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange13600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange13800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange14000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange14200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange14400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange14600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange14800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange15000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange15200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange15400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange15600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange15800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange16000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange16200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange16400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange16600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange16800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange17000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange17200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange17400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange17600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange17800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange18000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange18200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange18400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange18600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange18800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange19000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange19200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange19400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange19600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange19800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange20000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange20200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange20400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange20600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange20800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange21000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange21200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange21400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange21600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange21800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange22000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange22200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange22400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange22600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange22800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange23000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange23200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange23400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange23600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange23800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange24000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange24200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange24400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange24600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange24800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange25000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange25200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange25400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange25600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange25800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange26000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange26200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange26400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange26600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange26800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange27000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange27200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange27400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange27600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange27800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange28000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange28200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange28400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange28600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange28800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange29000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange29200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange29400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange29600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange29800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange30000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange30200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange30400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange30600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange30800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange31000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange31200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange31400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange31600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange31800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange32000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange32200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange32400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange32600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange32800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange33000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange33200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange33400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange33600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange33800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange34000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange34200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange34400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange34600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange34800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange35000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange35200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange35400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange35600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange35800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange36000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange36200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange36400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange36600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange36800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange37000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange37200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange37400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange37600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange37800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange38000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange38200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange38400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange38600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange38800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange39000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange39200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange39400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange39600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange39800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange40000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange40200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange40400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange40600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange40800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange41000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange41200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange41400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange41600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange41800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange42000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange42200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange42400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange42600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange42800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange43000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange43200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange43400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange43600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange43800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange44000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange44200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange44400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange44600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange44800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange45000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange45200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange45400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange45600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange45800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange46000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange46200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange46400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange46600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange46800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange47000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange47200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange47400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange47600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange47800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange48000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange48200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange48400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange48600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange48800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange49000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange49200.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange49400.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange49600.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange49800.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
+ p 'lagrange50000.txt' w d ls 4, 'obstaculo.txt' w p ls 20
+ pause 0.01
