@@ -1,2 +1,4 @@
 # Introduccion_VolumenFinito
 El objetivo de este repositorio es introducir a estudiantes al método de volumen finito y su aplicación para la solución de ecuaciones diferenciales parciales. En particular, se presenta la solución de la ecuación general de advección-difusión en una y dos dimensiones utilizando diversas condiciones de frontera. Adicionalmente, se tienen códigos donde se resuelven las ecuaciones de Navier-Stokes en dos dimensiones para flujos que se estudian comúnmente en los cursos introductorios de Dinámica de Fluidos Computacional. Cada código del repositorio cuenta con documentación del proceso de discretización y los métodos de solución utilizados.
+
+Todos los códigos del repositorio pueden compilarse con gfortran y no requieren ninguna biblioteca en particular para su ejecución. Para algunos ejercicios se han incluido scripts para la visualización de resultados utilizando gnuplot.
